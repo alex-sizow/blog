@@ -1,0 +1,8 @@
+@import '~antd/dist/antd.css';
+
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  
+}
